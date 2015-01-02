@@ -1,0 +1,4 @@
+functionalscala
+===============
+
+fp in scala
